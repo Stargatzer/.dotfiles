@@ -5,4 +5,4 @@ Spremanje konfiguracijskih datoteka s arch linuxa
 .urxvt
 .i3
 #dobro bi bilo stavit popis paketa negdi
-#možda i 
+#možda i skriptu za automatski sync
